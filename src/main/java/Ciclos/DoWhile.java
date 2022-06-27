@@ -30,5 +30,4 @@ public class DoWhile {
         } while (response != 0);
         System.out.println("Se terminó el programa");
     }
-
 }
