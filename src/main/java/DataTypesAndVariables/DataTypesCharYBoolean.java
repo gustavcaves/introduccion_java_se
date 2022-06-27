@@ -1,3 +1,5 @@
+package DataTypesAndVariables;
+
 public class DataTypesCharYBoolean {
     public static void main(String[] args) {
         int n = 1234567890;

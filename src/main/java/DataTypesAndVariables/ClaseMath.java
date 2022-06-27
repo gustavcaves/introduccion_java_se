@@ -1,3 +1,5 @@
+package DataTypesAndVariables;
+
 public class ClaseMath {
     public static void main(String[] args) {
         double x = 2.1;

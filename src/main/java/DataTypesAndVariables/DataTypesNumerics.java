@@ -1,3 +1,5 @@
+package DataTypesAndVariables;
+
 public class DataTypesNumerics {
     public static void main(String[] args) {
         // int solo permite ingresar 10 digitos

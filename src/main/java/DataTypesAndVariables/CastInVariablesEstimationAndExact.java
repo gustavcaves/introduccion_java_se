@@ -1,3 +1,5 @@
+package DataTypesAndVariables;
+
 public class CastInVariablesEstimationAndExact {
     public static void main(String[] args) {
         // Casteo, quitar algo

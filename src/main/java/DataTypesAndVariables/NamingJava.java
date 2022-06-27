@@ -1,3 +1,5 @@
+package DataTypesAndVariables;
+
 public class NamingJava {
 	public static void main(String[] args) {
 		int celphone = 33333;
